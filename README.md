@@ -1,0 +1,2 @@
+# parlee
+Riigikogu stenogrammid korpusesse.
